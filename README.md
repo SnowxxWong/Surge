@@ -3,7 +3,8 @@ Surge
 
 
 ###
-anti-AD URL
+anti-AD URL:
+
 https://github.com/privacy-protection-tools/anti-AD
 
 https://anti-ad.net/
