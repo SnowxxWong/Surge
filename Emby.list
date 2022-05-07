@@ -18,7 +18,7 @@ HOST-SUFFIX,servers.xeton.dev,Emby
 
 
 # PrPr-Emby
-HOST-SUFFIX-SUFFIX,emby.prprcloud.com,Emby
+HOST-SUFFIX,emby.prprcloud.com,Emby
 
 # > 流媒体emby-nexitally服务器
 HOST-SUFFIX,emby.nexitally.com,Emby
