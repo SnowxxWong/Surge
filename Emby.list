@@ -1,3 +1,10 @@
+
+HOST-KEYWORD,emby,Emby
+HOST-KEYWORD,jmsooo,Emby
+HOST-KEYWORD,odysseyplus,Emby
+
+HOST-SUFFIX,emby.misakaf.xyz,Emby
+
 HOST-SUFFIX,odysseyplus.site,Emby
 HOST-SUFFIX,otakudrive.life,Emby
 HOST-SUFFIX,emby.prprcloud.com,Emby
@@ -103,8 +110,3 @@ HOST-SUFFIX,jmsooo.com,Emby
 HOST-SUFFIX,cf.jmsooo.com,Emby
 HOST-SUFFIX,hk.jmsooo.com,Emby
 HOST-SUFFIX,sg.jmsooo.com,Emby
-
-
-#HOST-KEYWORD,emby,Emby
-#HOST-KEYWORD,jmsooo,Emby
-#HOST-KEYWORD,odysseyplus,Emby
