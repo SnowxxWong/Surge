@@ -4,4 +4,4 @@
 [Rule]
 DOMAIN-SET,https://raw.githubusercontent.com/snowxwong/Surge/main/AdRule_NobyDa.txt,REJECT
 DOMAIN-SET,https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-surge2.txt,REJECT
-DOMAIN-SET,https://r*analytics01.cisco.netacad.com,REJECT
+DOMAIN-SET,https://analytics01.cisco.netacad.com,REJECT
