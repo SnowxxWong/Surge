@@ -7,7 +7,7 @@ DOMAIN-SET,https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/ma
 DOMAIN-SUFFIX,analytics01.cisco.netacad.com,REJECT
 DOMAIN-SUFFIX,analytics.wondershare.cc,REJECT
 #WiFiExplorerPro
-DOMAIN-SUFFIX,v3.paddleapi.com,REJECT
-DOMAIN-SUFFIX,checkout.paddle.com,REJECT
+#DOMAIN-SUFFIX,v3.paddleapi.com,REJECT
+#DOMAIN-SUFFIX,checkout.paddle.com,REJECT
 DOMAIN-SUFFIX,s3.amazonaws.com,REJECT
 
