@@ -9,5 +9,7 @@ DOMAIN-SUFFIX,analytics.wondershare.cc,REJECT
 #WiFiExplorerPro
 #DOMAIN-SUFFIX,v3.paddleapi.com,REJECT
 #DOMAIN-SUFFIX,checkout.paddle.com,REJECT
+DOMAIN-SUFFIX,downiestatistics.com,REJECT
 DOMAIN-SUFFIX,s3.amazonaws.com,REJECT
+
 
